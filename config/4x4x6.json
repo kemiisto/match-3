@@ -1,0 +1,7 @@
+{
+    "board_width": 4,
+    "board_height": 4,
+    "chip_colors": [
+        "A", "B", "C", "D", "E", "F"
+    ]
+}
